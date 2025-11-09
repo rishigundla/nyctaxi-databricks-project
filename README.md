@@ -123,27 +123,6 @@ The NYC Taxi Trip dataset is publicly available on the official [NYC TLC Trip Re
 
 ---
 
-## 🪜 Folder Structure
-nyctaxi-databricks-project/
-│
-├── assets/
-│ └── Architecture.drawio.png
-│
-├── notebooks/
-│ ├── 00_landing.ipynb
-│ ├── 01_bronze.ipynb
-│ ├── 02_silver.ipynb
-│ └── 03_gold.ipynb
-│
-├── data/
-│ ├── yellow_tripdata_{year_month}.parquet
-│ └── taxi_zone_lookup.parquet
-│
-└── README.md
-
-
----
-
 
 ## 👨‍💻 Author
 **Rishikesh Gundla**  
