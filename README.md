@@ -1,7 +1,7 @@
 # NYC Taxi Databricks Project — Medallion Architecture | Delta Lake | Unity Catalog
 
 ## 🧠 Overview
-This end-to-end project demonstrates how to design and implement a **governed, scalable, and analytics-ready data pipeline** using **Azure Databricks**, **Unity Catalog**, and **Delta Lake** following the **Medallion Architecture** (Landing → Bronze → Silver → Gold).  
+This beginner-friendly end-to-end project demonstrates how to design and implement a **governed, scalable, and analytics-ready data pipeline** using **Azure Databricks**, **Unity Catalog**, and **Delta Lake** following the **Medallion Architecture** (Landing → Bronze → Silver → Gold).  
 The dataset used is the **NYC Yellow Taxi Trip Dataset**, transformed from raw Parquet files into structured analytical tables.
 
 ---
